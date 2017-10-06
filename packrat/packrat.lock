@@ -1,0 +1,14 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.8.1
+RVersion: 3.4.1
+Repos: CRAN=https://mran.microsoft.com/snapshot/2017-09-01
+
+Package: ProjectTemplate
+Source: CRAN
+Version: 0.8
+Hash: f83c3b92ed9ed695e7e3b47e316e00f7
+
+Package: packrat
+Source: CRAN
+Version: 0.4.8-1
+Hash: 6ad605ba7b4b476d84be6632393f5765
