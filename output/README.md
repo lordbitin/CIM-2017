@@ -1,0 +1,1 @@
+Here you'll store any result (mostly plots)
