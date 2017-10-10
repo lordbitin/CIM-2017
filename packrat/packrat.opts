@@ -2,11 +2,11 @@ auto.snapshot: TRUE
 use.cache: FALSE
 print.banner.on.startup: auto
 vcs.ignore.lib: TRUE
-vcs.ignore.src: FALSE
-external.packages: 
+vcs.ignore.src: TRUE
+external.packages: rmarkdown
 local.repos: 
 load.external.packages.on.startup: TRUE
-ignored.packages: 
+ignored.packages: MmgraphR
 quiet.package.installation: TRUE
 snapshot.recommended.packages: FALSE
 snapshot.fields:
