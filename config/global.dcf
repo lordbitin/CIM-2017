@@ -8,8 +8,7 @@ munging: FALSE
 logging: FALSE
 logging_level: INFO
 load_libraries: TRUE
-libraries:    MmgraphR,
-    RankAggreg,
+libraries:    RankAggreg,
     TraMineR,
     cowplot,
     doParallel,
@@ -20,7 +19,8 @@ libraries:    MmgraphR,
     purrr,
     seqHMM,
     plyr,
-    tidyr
+    tidyr,
+    MmgraphR
 as_factors: TRUE
 data_tables: FALSE
 attach_internal_libraries: FALSE
