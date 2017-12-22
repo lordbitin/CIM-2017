@@ -5,7 +5,7 @@ This is the R code associated to the article:
 Rodríguez-Fernández, Víctor, Antonio Gonzalez-Pardo, and David Camacho. “Modelling Behaviour in UAV Operations Using Higher Order Double Chain Markov Models.” IEEE Computational Intelligence Magazine. In press (2017)
 
 You can find a link to the article here:
-[TBD]
+[https://doi.org/10.1109/MCI.2017.2742738]
 
 ## Requirements
 
